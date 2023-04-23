@@ -1,0 +1,53 @@
+.manage-room-container {
+ padding:5px;
+ .manage-room-title{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 15px;
+    color: #0071ba;
+ }
+ .save-content-room{
+     margin-top:20px;
+     margin-bottom: 30px;
+     border-radius:3px;
+     outline:none;
+     border:none;
+     padding: 5px;
+     background-color: #007bff;
+     cursor: pointer;
+
+     &:hover{
+         opacity: 0.9;
+     }
+ }
+ .create-content-room{
+     margin-top: 20px;
+     margin-bottom: 30px;
+     border-radius: 3px;
+     outline: none;
+     border: none;
+     padding: 5px;
+     background-color: #007bff;
+     cursor: pointer;
+     color: white;
+
+     &:hover{
+         opacity: 0.9;
+     }
+ }
+ .more-info{
+     display: flex;
+     gap:15px;
+     padding-bottom:15px;
+
+     .content-left{
+         width: 35%;
+     }
+
+     .content-right{
+         width: 65%;
+     }
+ }
+}

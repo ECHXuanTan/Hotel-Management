@@ -1,0 +1,182 @@
+.slick-prev{
+    left: -30px !important;
+    top: 70px !important;
+    z-index: 1000 !important;
+    height: 42px !important;
+    width: 45px !important;
+    background-color: transparent !important;
+
+    &:hover{
+        background: white !important;
+        background-color: transparent !important;
+    }
+}
+
+.slick-prev:before,
+.slick-next:before{
+    // font-family: montserrat !important;
+    color: #49bce2 !important;
+    font-size: 45px !important;
+}
+
+.slick-next{
+    right: -15px !important;
+    top: 70px !important;
+    z-index: 1000 !important;
+    height: 42px !important;
+    width: 45px !important;
+    background-color: transparent !important;
+
+    &:hover{
+        background: white !important;
+        background-color: transparent !important;
+    }
+    
+}
+
+.section-share{
+    &.section-specialty{
+        background: #fff;
+    }
+
+    &.section-feature-hotel{
+        background: #fff;
+    }
+
+    &.section-about{
+        height: 500px !important;
+        border-top:1px solid #fff;
+    }
+
+    .section-body{
+        .section-customize{
+            .bg-image{
+                width: 270px;
+                height: 150px;
+                background-size: cover;
+                background-position: center center;
+                background-repeat: no-repeat !important;
+                background-color: #eee;
+
+                &.section-specialty{
+                    // background-image: url('../../assets/images/hotel-room-1.jpg');
+                }
+              
+
+                &.section-hotel-branch{
+                    // background-image: url('../../assets/images/hotel-0.jpg');
+                }
+               
+                //room not hotel
+                &.section-feature-hotel{
+                    // background-image: url('../../assets/images/hotel-room2.jpg');
+                    width: 120px;
+                    height: 120px;
+                    border-radius: 50%;
+                }
+
+                &.section-handbook{
+                    background-image: url('../../assets/images/hotel-room-1.jpg');
+                }
+            }   
+        }
+    }
+}
+
+.slick-disabled{
+    display: none !important;
+}
+
+.section-share{
+    height: 600px;
+
+    .section-container{
+        margin: 0 100px;
+        display: flex;
+        flex-direction: column;
+
+        .section-header{
+            height: 60px;
+            margin-bottom: 30px;
+            padding-top: 30px;
+
+            .title-section{
+                font-size: 22px;
+                font-weight: 600;
+            }
+
+            .btn-section{
+                float:right;
+                padding: 10px 15px;
+                border: none;
+                outline: none;
+                display: block;
+                background: #ebebeb;
+                color: black;
+                cursor: pointer;
+                text-transform: uppercase;
+
+                &:hover{
+                    background: #4c6ef5;
+                    color: white;
+                }
+            }
+        }
+    }
+}
+
+.section-feature-hotel{
+    .outer-bg{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+
+    .section-customize{
+        padding: 5px;
+        cursor: pointer;
+
+        .customize-border{
+            border: 1px solid #007bff;
+            padding: 20px;
+        }
+    }
+}
+
+.home-footer{
+    text-align: center;
+    padding-top: 8px;
+
+    a{
+        text-decoration: none;
+    }
+}
+
+.section-about{
+    padding: 0 100px;
+    margin-bottom: 50px;
+    .section-about-header{
+        padding: 20px 10px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .section-about-content{
+        display: flex;
+        gap:5px;
+
+        .content-left{
+            width: 60%;
+        }
+
+        .content-right{
+            width: 40%;
+
+            p{
+                text-align: justify;
+                font-size: 15px;
+                font-style: italic;
+            }
+        }
+    }
+}

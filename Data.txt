@@ -1,0 +1,11 @@
+Chuyên khoa ph? bi?n ->H?ng phòng : thông tin khách s?n, Các h?ng phòng. Ð?t l?ch
+
+Co s? y t?->Thông tin co s? Khách s?n: Các h?ng phòng. Ð?t l?ch h?n
+
+Bác si n?i b?c => H?ng phòng n?i b?c : Thông tin phòng, l?ch 
+
+C?m nang => d?ch v?
+
+C?n làm: Chi ti?t khách s?n
+Chi ti?t phòng
+

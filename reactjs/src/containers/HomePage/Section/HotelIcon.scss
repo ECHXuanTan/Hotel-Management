@@ -1,0 +1,42 @@
+.section-hotel-icon{
+    background:#eee;
+}
+
+.section-hotel-icon h2{
+    text-align: center;
+    padding-top: 2.5rem;
+    font-weight: 600;
+    font-size: 2.5rem;
+}
+
+.hotel-icon{
+    display: flex;
+    gap:1.5rem;
+    padding: 2rem 5rem 5rem 5rem;
+}
+
+.icon-icons{
+    background:#fff;
+    border:.1rem solid rgba(0,0,0,.1);
+    padding:2rem;
+    display: flex;
+    align-items: center;
+    flex:1 1 25rem;
+}
+
+.item-icon{
+   margin-left: 99px;
+}
+
+.icon-info h3{
+    color:#333;
+    padding-bottom: 0.5rem;
+    font-size: 1.5rem;
+    padding-top: 0.5rem;
+}
+
+.icon-info span{
+    color:#555;
+    font-size: 1.3rem;
+    text-align: center;
+}

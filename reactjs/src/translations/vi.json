@@ -1,0 +1,137 @@
+{
+    "homeheader":{
+        "specialty":"Địa điểm",
+        "searchhotel":"Chọn nơi đến của bạn",
+        "hotel-facility": "Hotel",
+        "select-hotel": "Chi nhánh Khách sạn",
+        "room": "Phòng",
+        "select-room": "Chọn phòng tốt nhất dành cho bạn",
+        "fee": "Ưu đãi đặc biệt",
+        "special-offer":"Đăng ký thành viên ngay",
+        "support":"Hỗ trợ",
+        "welcome": "Xin chào, ",
+        "top-room":"Hạng phòng nổi bật trong tuần",
+        "more-info":"Xem thêm"
+    },
+    "banner": {
+        "title1": "NỀN TẢNG CHẤT LƯỢNG",
+        "title2": "ĐEM ĐẾN NHỮNG TRẢI NGHIỆM TUYỆT VỜI",
+        "child1": "Tìm khách sạn",
+        "child2": "Tìm phòng",
+        "child3": "Tìm địa điểm",
+        "child4": "Tìm chuyến đi"
+    },
+    "menu": {
+        "system": {
+            "header": "Hệ thống",
+            "system-administrator": {
+                "header": "Quản trị hệ thống",
+                "user-manage": "Quản lý người sử dụng",
+                "user-redux": "Quản lý người sử dụng",
+                "register-package-group-or-account": "Đăng ký gói dịch vụ cho nhóm/tài khoản"
+            },
+            "system-parameter": {
+                "header": "Tham số hệ thống"
+            }
+        },
+        "admin":{
+            "manage-user": "Quản lý người dùng",
+            "crud": "CRUD",
+            "crud-redux": "Thêm mới người dùng",
+            "manage-hotel": "Quản lý khách sạn",
+            "manage-admin": "Quản lý Admin",
+            "specialty": "Hạng phòng", 
+            "branch": "Chi nhánh",
+            "handbook": "Cẩm nang",
+            "manage-room":"Quản lý phòng",
+            "appointment":"Quản lý lịch đặt phòng",
+            "manage-specialty":"Quản lý hạng phòng",
+            "manage-branch":"Quản lý chi nhánh"
+            
+        },
+        "room":{
+            "manage-schedule": "Quản lý lịch check-in phòng",
+            "manage-customer":"Lịch đặt phòng của khách hàng"
+        }
+    },
+    "manage-user":{
+        "add": "Thêm mới người dùng",
+        "email":"Email",
+        "password":"Mật khẩu",
+        "firstName":"Tên",
+        "lastName":"Họ",
+        "gender":"Giới tính",
+        "male":"Nam",
+        "female":"Nữ",
+        "other":"Khác",
+        "address":"Địa chỉ",
+        "phoneNumber":"Số điện thoại",
+        "position":"Vị trí",
+        "admin":"Quản lý",
+        "user":"Người dùng",
+        "role": "Chức vụ",
+        "image":"Hình ảnh",
+        "imageUpload":"Tải ảnh",
+        "save":"Lưu thông tin",
+        "edit":"Sửa thông tin"
+    },
+    "homepage":{
+        "specialty-poplular":"Các loại phòng phổ biến",
+        "more-infor":"Xem thêm",
+        "title1": "Khi đến thăm Nha Trang, bạn sẽ cảm thấy như đang ở nhà tại Vinpearl Nha Trang Bay Resort & Villas, nơi cung cấp chỗ ở chất lượng và dịch vụ tuyệt vời. Chỉ cách trung tâm thành phố 10,4 km, du khách có thể tận hưởng vị trí thuận tiện để tận hưởng các điểm tham quan và hoạt động của thị trấn. Với vị trí thuận lợi, khách sạn dễ dàng tiếp cận các điểm tham quan không thể bỏ qua của thành phố.",
+        "title2": "Vinpearl Nha Trang Bay Resort & Villas mang lại dịch vụ hoàn hảo, làm hài lòng cả những vị khách khó tính nhất với những tiện nghi sang trọng tuyệt vời. Miễn phí wifi tất cả các phòng, quầy lễ tân 24 giờ, phục vụ phòng 24 giờ, tiện nghi cho khách khuyết tật, giữ hành lý chỉ là một vài trong số những thiết bị được lắp đặt tại Vinpearl Nha Trang Bay Resort & Villas so với những khách sạn khác trong thành phố."
+    },
+    "manage-schedule":{
+        "title":"Quản lý lịch check-in phòng",
+        "choose-room":"Chọn phòng",
+        "choose-date":"Chọn ngày nhận phòng",
+        "save":"Lưu thông tin"
+    },
+    "customer":{
+        "detail-room":{
+            "schedule":"Giờ check-in",
+            "no-schedule":"Phòng này hiện đang có người đặt trong thời gian này, vui lòng chọn thời gian khác",
+            "choose":"Chọn",
+            "book-free":" và đặt phòng (miễn phí)"
+        },
+        "extra-infor-room":{
+            "text-address":"Địa chỉ",
+            "price":"Giá phòng",
+            "detail":"Xem chi tiết",
+            "payment":"Quý khách có thể thanh toán chi phí bằng hình thức: ",
+            "hide-price":"Ẩn bảng giá"
+        },
+        "booking-modal":{
+            "title":"Thông tin đặt phòng",
+            "fullName":"Họ và tên",
+            "phoneNumber":"Số điện thoại",
+            "email":"Địa chỉ Email",
+            "address":"Địa chỉ liên lạc",           
+            "birthday":"Ngày sinh",
+            "gender":"Giới tính",
+            "btnConfirm":"Xác nhận",
+            "btnCancel":"Hủy",
+            "priceBooking":"Miễn phí đặt phòng",
+            "price":"Giá phòng",
+            "number":"Số người"
+        }
+    },
+    "admin":{
+        "manage-room":{
+            "title":"Quản lý thông tin phòng khách sạn",
+            "select-room":"Chọn phòng",
+            "intro":"Thông tin giới thiệu",
+            "choose-price":"Giá phòng",
+            "payment":"Phương thức thanh toán",
+            "province":"Tỉnh/Thành phố",
+            "nameHotel":"Tên khách sạn",
+            "addressHotel":"Địa chỉ khách sạn",
+            "note":"Ghi chú",
+            "save":"Lưu thông tin",
+            "add":"Thêm thông tin phòng",
+            "note":"Ghi chú",
+            "specialty" : "Loại phòng",
+            "select-hotel":"Chọn khách sạn"
+        }
+    }
+}

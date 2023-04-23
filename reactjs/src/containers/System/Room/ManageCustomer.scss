@@ -1,0 +1,55 @@
+.manage-customer-container{
+    .m-p-title{
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 20px;
+        margin-top: 15px;
+        color: #0071ba;
+    }
+
+    .manage-customer-body{
+        padding: 0 20px;
+
+        .table-manage-customer{
+
+            table,th,td{
+                border: 1px solid red;
+                border-collapse: collapse;
+
+            }
+
+            th,td{
+                padding: 10px;
+                text-align: center;
+            }
+
+            button{
+                border: none;
+                outline: none;
+                cursor: pointer;
+            }
+
+            .mp-btn-confirm{
+                margin-right: 10px;
+                height: 30px;
+                border-radius: 3px;
+                background: orange;
+            }
+
+            .mp-btn-remedy{
+                height: 30px;
+                border-radius: 3px;
+                background: #00bcd4;
+            }
+        }
+    }
+}
+
+.div._loading_overlay_wrapper{
+    position: unset;
+
+    ._loading_overlay_overlay{
+        z-index: 99999;
+    }
+}
